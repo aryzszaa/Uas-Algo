@@ -1,0 +1,14 @@
+tanggal,provinsi,kasus_harian,sembuh,meninggal
+2023-01-01,DKI Jakarta,100,90,2
+2023-01-01,Jawa Barat,80,70,1
+2023-01-01,Jawa Tengah,60,50,2
+2023-01-01,Jawa Timur,70,65,1
+2023-01-02,DKI Jakarta,110,100,3
+2023-01-02,Jawa Barat,90,85,2
+2023-01-02,Jawa Tengah,75,70,1
+2023-01-02,Jawa Timur,85,80,2
+2023-01-03,DKI Jakarta,120,110,1
+2023-01-03,Jawa Barat,95,90,2
+2023-01-03,Jawa Tengah,78,74,0
+2023-01-03,Jawa Timur,92,88,1
+
